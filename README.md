@@ -1,4 +1,4 @@
-This page showcases my projects with links to their Github repositories. 
+Here are some of my projects that showcase my data science skills in R and Python.
 
 # Locating Long Polling Lines with Twitter Data 🍕🗳️🇺🇸
 
